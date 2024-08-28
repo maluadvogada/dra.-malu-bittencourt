@@ -41,3 +41,83 @@ memoria
 A memória do computador armazena informações, como dados e programas para uso imediato no computador.
 O termo memória muitas vezes é sinônimo de armazenamento primário ou memória principal. Um sinônimo arcaico para memória é armazenamento.
 https://pt.wikipedia.org/wiki/memoria
+
+o que é data center?
+Um centro de processamento de dados, também conhecido como data center, é um local onde estão concentrados os sistemas computacionais de uma empresa ou organização,
+como um sistema de telecomunicações ou um sistema de armazenamento de dados, além do fornecimento de energia para a instalação
+https://pt.wikipedia.org/wiki/Centro_de_processamento_de_dados
+
+o que é LGPD?
+A Lei Geral de Proteção de Dados (13.709/2018) tem como principal
+objetivo proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.
+https://www.mpf.mp.br/servicos/lgpd/o-que-e-a-lgpd#:~:text=A%20Lei%20Geral%20de%20Prote%C3%A7%C3%A3o,da%20personalidade%20da%20pessoa%20natural.
+
+Relação entre Data Center e a Lei Geral de Proteção de Dados (LGPD) A Lei Geral de Proteção de Dados (LGPD) obriga as organizações a serem
+mais responsáveis com
+o gerenciamento das informações armazenadas. Esse aspecto mostra a necessidade de um cuidado especial com a administração do Data Center
+https://thriveti.com.br/veja-a-relacao-entre-data-center-e-a-lei-geral-de-protecao-de-dados-lgpd/#:~:text=Home-,Rela%C3%A7%C3%A3o%20ent
+re%20Data%20Center%20e%20a,de%20Prote%C3%A7%C3%A3o%20de%20Dados%20(LGPD)&text=A%20Lei%20Geral%20de%20Prote%C3%
+A7%C3%A3o%20de%20Dados%20(LGPD)%20obriga%20as,a%20administra%C3%A7%C3%A3o%20do%20Data%20Center.
+
+O QUE É UM FORMATO? 
+o que é um arquivo? são o conjunto de dados que representam uma informacao e que podem ser armazenados. (foto,doc...)
+Um formato aberto, em informática, indica uma especificação técnica de domínio público usada para a descrição e armazenamento de
+dados digitais, livre de restrições legais para seu uso.
+O principal objetivo dos formatos abertos é garantir o acesso aos dados a longo prazo sem inseguranças jurídicas ou restrições devidas às 
+especificações técnicas: em outras palavras, garantir a interoperabilidade. Outro objetivo 
+do formato aberto é incentivar a concorrência, ao invés de permitir que um único fabricante detenha o controle
+sobre um formato proprietário
+o aberto nao tem limitacoes para os utilizadores finais.
+ex: RTF, PNG, HMTL, PPTX (power point), ODS, ODF, ODT (PLANILHA)
+PDF ATE A VERSAO 1.4
+
+Os formatos proprietários são, na verdade, controlados e definidos por interesses privados.
+a empresa determina quem pode ou nao usar, vendendo licenças para o acesso.
+Com o formato proprietário, o usuário corre o risco de perder todas as informações contidas no arquivo caso
+o software pare de funcionar ou fosse descontinuado, já que não teria outro sistema capaz de processá-las.
+Todas as informações coletadas nos arquivos públicos (órgãos, instituições, administração, etc.) se tornariam ilegíveis e 
+inutilizáveis em muito pouco tempo.
+A título de exemplo, o formato MP3 é proprietário mas também aberto porque, se bém patenteado, suas especificações são públicas. 
+Tornar públicas as especificações técnicas é uma maneira de difundir o formato e torná-lo um padrão internacional.
+Qual a diferença entre formato proprietário aberto e opensource? Enquanto o formato opensource pode ser lido ou
+editado por qualquer aplicativo, o formato proprietárioo aberto pode ser alterado apenas com o programa proprietário.
+É evidente o valor do formato IFC: os dados são independentes do formato do arquivo onde eles são armazenados e transmitidos.
+ex: DOCS, PPT, XLS (EXCEL), PDF DEPOIS VERSAO 1.4., SWF
+
+dados publicos geralmente sao provenientes da criacao do estado. Os dados públicos são informações abertas sem restrições de privacidade,
+segurança ou controle de acesso, ou seja, estão livres para serem analisados, modificados e até compartilhados pela web.
+
+a divulgacao dos dados publicos deveriam ser em formato de arquivo aberto.  
+alguns sao divulgados como proprietarios para nao expor.
+em alguns casos pode se justificar o uso do proprietario se o programa for muito especifico e nao tiver um subtituto.
+
+provedor de aplicacao (META, X, IFOOD) donos das aplicacoes 
+provedores de acesso (VIVO, TIM ,OI)
+
+
+CODIGO JAVA 
+class Demo {
+ public static void main(String args[]){
+     System.out.println("Hello, World");
+ }
+}
+
+
+CODIGO PHYTON
+print ('Hello World')
+
+
+CODIGO GO
+package main
+import "fmt"
+
+func main() {
+    fmt.Println("Hello World")
+}
+
+
+Java é uma linguagem de programação orientada a objetos, popular para aplicações corporativas e móveis. Python é uma linguagem de propósito geral, 
+conhecida por sua sintaxe simples e versatilidade. Go é uma linguagem criada pelo Google, destacando-se pela eficiência e concorrência.
+
+
+
