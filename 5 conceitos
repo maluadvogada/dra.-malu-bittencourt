@@ -120,11 +120,20 @@ Java é uma linguagem de programação orientada a objetos, popular para aplica�
 conhecida por sua sintaxe simples e versatilidade. Go é uma linguagem criada pelo Google, destacando-se pela eficiência e concorrência.
 
 
-
+estrutura de repeticao 
 frutas = ["maçã", "banana", "laranja"]
 for fruta in frutas:
     print(fruta)
 
+estrutura de tomada de decisao
+idade = 20
+
+if idade < 18:
+    print("Você é menor de idade.")
+elif idade < 65:
+    print("Você é um adulto.")
+else:
+    print("Você é idoso.")
 
 
 
