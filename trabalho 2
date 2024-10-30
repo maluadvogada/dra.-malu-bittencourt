@@ -1,0 +1,16 @@
+def imprime_vogais(frase):
+    vogais = "aeiouAEIOU"
+    resultado = ""  # Variável para armazenar as vogais
+
+    for letra in frase:
+        if letra in vogais:
+            resultado += letra  # Adiciona a vogal à variável
+
+    return resultado
+
+# Armazenando a frase em uma variável
+texto = "Olá, como você está?"
+
+# Chamando a função e imprimindo as vogais
+vogais = imprime_vogais(texto)
+print("Vogais:", vogais)
